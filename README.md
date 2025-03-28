@@ -1,3 +1,4 @@
+#Heading 1
 DNS and RIP Protocol Project
 
 This project demonstrates the implementation of the DNS and RIP protocols in a simulated networking environment using Cisco Packet Tracer. The network topology is designed to illustrate how DNS resolves hostnames and how RIP routes packets within a network.
